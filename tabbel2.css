@@ -1,0 +1,38 @@
+#table_2,th,td,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 0 5px 0 5px;
+    font-size: 10px;
+    text-align: center;
+}
+
+#table_2 input{
+    border: none;
+    border-width: 1px;
+    width: 60px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    text-align: center;
+    font-size: 10px;
+  }
+
+
+  #table_2 #kg_input_width input{
+    width: 100px;
+  }
+
+  #table_2_2 input{
+   
+    border-width: 1px;
+    width: 60px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    text-align: center;
+    font-size: 10px;
+  }
+
+
+  
+ #custom input{
+    width: 150px;
+ }
